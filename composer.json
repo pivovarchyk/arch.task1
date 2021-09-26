@@ -1,0 +1,13 @@
+{
+  "name": "architecture/task1",
+  "description": "task1",
+  "autoload": {
+    "psr-4": {
+      "Mautic\\": "app/"
+    }
+  },
+  "require-dev": {
+    "codeception/codeception": "^4.0",
+    "phpunit/phpunit": "^9.5",
+  }
+}
